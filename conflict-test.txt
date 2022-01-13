@@ -1,3 +1,3 @@
 a
-from remote & from local b
+new b
 c
