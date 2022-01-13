@@ -1,3 +1,7 @@
 a
+<<<<<<< HEAD
 b local solve it again ...
+=======
+before push local commit resolution... b
+>>>>>>> fa74d308dfa93bd791fe922e0f92bf7990a00960
 c
